@@ -1,0 +1,8 @@
+onlineSystem/web/MainWebAppInitializer.class
+onlineSystem/web/controllers/SignOutController.class
+onlineSystem/web/controllers/SignInController.class
+onlineSystem/web/WebConfig.class
+onlineSystem/web/controllers/ProjectAndTaskController.class
+onlineSystem/web/controllers/RegisterStaffController.class
+onlineSystem/web/controllers/UserPageController.class
+onlineSystem/web/WebConfig$1.class
