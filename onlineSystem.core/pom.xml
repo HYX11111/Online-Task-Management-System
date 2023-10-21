@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>finalProject</groupId>
+		<artifactId>onlineSystem</artifactId>
+        <version>${project.version}</version>
+    </parent>
+
+	<properties>
+		<project.version>1.0</project.version>
+	</properties>
+
+    <groupId>finalProject</groupId>
+    <artifactId>onlineSystem.core</artifactId>
+    <version>${project.version}</version>
+    <packaging>jar</packaging>
+    
+	
+    <dependencies>
+		<dependency>
+		    <groupId>javax.persistence</groupId>
+		    <artifactId>javax.persistence-api</artifactId>
+		    <version>2.2</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.28</version>
+		</dependency>
+
+		<dependency>
+		    <groupId>org.hibernate</groupId>
+		    <artifactId>hibernate-core</artifactId>
+		    <version>5.6.14.Final</version>
+		</dependency>
+
+
+		<!--dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-c3p0</artifactId>
+			<version>5.6.14.Final</version>
+		</dependency>
+		
+		<dependency->
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-validator</artifactId>
+			<version>6.2.5.Final</version>
+		</dependency-->
+
+	</dependencies>
+
+</project>

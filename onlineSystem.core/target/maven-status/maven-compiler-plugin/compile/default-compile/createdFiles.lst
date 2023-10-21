@@ -1,0 +1,15 @@
+onlineSystem/core/projectAndTasks/Project.class
+onlineSystem/core/staff/Employee.class
+onlineSystem/core/projectAndTasks/ConstructionTask.class
+onlineSystem/core/projectAndTasks/PaymentTask.class
+onlineSystem/core/staff/Manager.class
+onlineSystem/core/storingService/StaffAndProjectStoringService.class
+onlineSystem/core/enums/Department.class
+onlineSystem/core/RiskCodeAssessor.class
+onlineSystem/core/enums/DepartmentConverter.class
+onlineSystem/core/staff/Staff.class
+onlineSystem/core/storingService/StaffAndProjectManagementService.class
+onlineSystem/core/enums/RiskCode.class
+onlineSystem/core/projectAndTasks/ProjectTask.class
+onlineSystem/core/staff/GeneralManager.class
+onlineSystem/core/Administrator.class
